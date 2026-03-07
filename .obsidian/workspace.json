@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Historia/introduccion-historia.md",
+                "file": "SUMMARY.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "introduccion-historia"
+              "title": "SUMMARY.md"
             }
           }
         ],
@@ -198,8 +198,8 @@
   },
   "active": "7f4baa7d4a934b71",
   "lastOpenFiles": [
+    "01-Historia/1. Historia del diseño gráfico.md",
     "SUMMARY.md.md",
-    "01-Historia/introduccion-historia.md",
     "[introduccion-historia](01-Historia/introduccion-historia.md",
     "[introduccion-historia](01-Historia",
     "[01-Historia](01-Historia/introduccion-historia.md",
