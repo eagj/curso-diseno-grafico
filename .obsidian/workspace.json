@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Historia/1.2. Arts & Crafts.md",
+                "file": "01-Historia/1.02. Arts & Crafts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2. Arts & Crafts"
+              "title": "1.02. Arts & Crafts"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Historia/1.3. Art Nouveau.md",
+                "file": "01-Historia/1.03. Art Nouveau.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3. Art Nouveau"
+              "title": "1.03. Art Nouveau"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Historia/1.4. Bauhaus.md",
+                "file": "01-Historia/1.04. Bauhaus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4. Bauhaus"
+              "title": "1.04. Bauhaus"
             }
           },
           {
@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Historia/1.5. Ejercicio, identifica la corriente artística.md",
+                "file": "01-Historia/1.05. Ejercicio, identifica la corriente artística.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.5. Ejercicio, identifica la corriente artística"
+              "title": "1.05. Ejercicio, identifica la corriente artística"
             }
           },
           {
@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Historia/1.6. La escuela de Nueva York.md",
+                "file": "01-Historia/1.06. La escuela de Nueva York.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.6. La escuela de Nueva York"
+              "title": "1.06. La escuela de Nueva York"
             }
           },
           {
@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Historia/1.7. Pop Art.md",
+                "file": "01-Historia/1.07. Pop Art.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.7. Pop Art"
+              "title": "1.07. Pop Art"
             }
           },
           {
@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Historia/1.8. Los años 60 y 70 en Europa.md",
+                "file": "01-Historia/1.08. Los años 60 y 70 en Europa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.8. Los años 60 y 70 en Europa"
+              "title": "1.08. Los años 60 y 70 en Europa"
             }
           },
           {
@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Historia/1.9. Los años 60 y 70 en Estados Unidos.md",
+                "file": "01-Historia/1.09. Los años 60 y 70 en Estados Unidos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.9. Los años 60 y 70 en Estados Unidos"
+              "title": "1.09. Los años 60 y 70 en Estados Unidos"
             }
           },
           {
@@ -324,18 +324,18 @@
   },
   "active": "7f4baa7d4a934b71",
   "lastOpenFiles": [
-    "01-Historia/1.1. Introducción a la historia del diseño.md",
-    "SUMMARY.md.md",
-    "01-Historia/1.2. Arts & Crafts.md",
     "01-Historia/1.10. la revolución digital.md",
-    "01-Historia/1.9. Los años 60 y 70 en Estados Unidos.md",
-    "01-Historia/1.8. Los años 60 y 70 en Europa.md",
-    "01-Historia/1.7. Pop Art.md",
-    "01-Historia/1.6. La escuela de Nueva York.md",
-    "01-Historia/1.5. Ejercicio, identifica la corriente artística.md",
-    "01-Historia/1.4. Bauhaus.md",
+    "01-Historia/1.09. Los años 60 y 70 en Estados Unidos.md",
+    "01-Historia/1.08. Los años 60 y 70 en Europa.md",
+    "01-Historia/1.07. Pop Art.md",
+    "01-Historia/1.06. La escuela de Nueva York.md",
+    "01-Historia/1.05. Ejercicio, identifica la corriente artística.md",
+    "01-Historia/1.04. Bauhaus.md",
+    "01-Historia/1.03. Art Nouveau.md",
+    "01-Historia/1.02. Arts & Crafts.md",
+    "01-Historia/1.01. Introducción a la historia del diseño.md",
+    "SUMMARY.md.md",
     "01-Historia/Pasted image 20260307223407.png",
-    "01-Historia/1.3. Art Nouveau.md",
     "[introduccion-historia](01-Historia/introduccion-historia.md",
     "[introduccion-historia](01-Historia",
     "[01-Historia](01-Historia/introduccion-historia.md",
