@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prueba.md",
+                "file": "Prueba de sincronización automática.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prueba"
+              "title": "Prueba de sincronización automática"
             }
           }
         ]
@@ -183,6 +183,6 @@
   },
   "active": "0f2bf862cae99f0a",
   "lastOpenFiles": [
-    "prueba.md"
+    "Prueba de sincronización automática.md"
   ]
 }
