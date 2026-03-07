@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Historia/1.10. la revolución digital.md",
+                "file": "1 Historia del diseño gráfico/1.10. la revolución digital.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Historia/1.02. Arts & Crafts.md",
+                "file": "1 Historia del diseño gráfico/1.02. Arts & Crafts.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Historia/1.03. Art Nouveau.md",
+                "file": "1 Historia del diseño gráfico/1.03. Art Nouveau.md",
                 "mode": "source",
                 "source": false
               },
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Historia/1.04. Bauhaus.md",
+                "file": "1 Historia del diseño gráfico/1.04. Bauhaus.md",
                 "mode": "source",
                 "source": false
               },
@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Historia/1.05. Ejercicio, identifica la corriente artística.md",
+                "file": "1 Historia del diseño gráfico/1.05. Ejercicio, identifica la corriente artística.md",
                 "mode": "source",
                 "source": false
               },
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Historia/1.06. La escuela de Nueva York.md",
+                "file": "1 Historia del diseño gráfico/1.06. La escuela de Nueva York.md",
                 "mode": "source",
                 "source": false
               },
@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Historia/1.07. Pop Art.md",
+                "file": "1 Historia del diseño gráfico/1.07. Pop Art.md",
                 "mode": "source",
                 "source": false
               },
@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Historia/1.08. Los años 60 y 70 en Europa.md",
+                "file": "1 Historia del diseño gráfico/1.08. Los años 60 y 70 en Europa.md",
                 "mode": "source",
                 "source": false
               },
@@ -139,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Historia/1.09. Los años 60 y 70 en Estados Unidos.md",
+                "file": "1 Historia del diseño gráfico/1.09. Los años 60 y 70 en Estados Unidos.md",
                 "mode": "source",
                 "source": false
               },
@@ -322,20 +322,20 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "7f4baa7d4a934b71",
+  "active": "720f6d1831768cec",
   "lastOpenFiles": [
     "SUMMARY.md.md",
-    "01-Historia/1.04. Bauhaus.md",
-    "01-Historia/1.10. la revolución digital.md",
-    "01-Historia/1.09. Los años 60 y 70 en Estados Unidos.md",
-    "01-Historia/1.08. Los años 60 y 70 en Europa.md",
-    "01-Historia/1.07. Pop Art.md",
-    "01-Historia/1.06. La escuela de Nueva York.md",
-    "01-Historia/1.05. Ejercicio, identifica la corriente artística.md",
-    "01-Historia/1.03. Art Nouveau.md",
-    "01-Historia/1.02. Arts & Crafts.md",
-    "01-Historia/1.01. Introducción a la historia del diseño.md",
-    "01-Historia/Pasted image 20260307223407.png",
+    "1 Historia del diseño gráfico/1.04. Bauhaus.md",
+    "1 Historia del diseño gráfico/1.10. la revolución digital.md",
+    "1 Historia del diseño gráfico/1.09. Los años 60 y 70 en Estados Unidos.md",
+    "1 Historia del diseño gráfico/1.08. Los años 60 y 70 en Europa.md",
+    "1 Historia del diseño gráfico/1.07. Pop Art.md",
+    "1 Historia del diseño gráfico/1.06. La escuela de Nueva York.md",
+    "1 Historia del diseño gráfico/1.05. Ejercicio, identifica la corriente artística.md",
+    "1 Historia del diseño gráfico/1.03. Art Nouveau.md",
+    "1 Historia del diseño gráfico/1.02. Arts & Crafts.md",
+    "1 Historia del diseño gráfico/1.01. Introducción a la historia del diseño.md",
+    "1 Historia del diseño gráfico/Pasted image 20260307223407.png",
     "[introduccion-historia](01-Historia/introduccion-historia.md",
     "[introduccion-historia](01-Historia",
     "[01-Historia](01-Historia/introduccion-historia.md",
@@ -345,7 +345,7 @@
     "01-Historia/1.1introduccion-historia.md",
     "01-Historia/1.1..md",
     "Bienvenido.md",
-    "01-Historia",
+    "1 Historia del diseño gráfico",
     "Prueba de sincronización automática.md"
   ]
 }
