@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md.md",
+                "file": "01-Historia/1.10. la revolución digital.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SUMMARY.md"
+              "title": "1.10. la revolución digital"
             }
           },
           {
@@ -324,8 +324,8 @@
   },
   "active": "7f4baa7d4a934b71",
   "lastOpenFiles": [
-    "01-Historia/1.04. Bauhaus.md",
     "SUMMARY.md.md",
+    "01-Historia/1.04. Bauhaus.md",
     "01-Historia/1.10. la revolución digital.md",
     "01-Historia/1.09. Los años 60 y 70 en Estados Unidos.md",
     "01-Historia/1.08. Los años 60 y 70 en Europa.md",
