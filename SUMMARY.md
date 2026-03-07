@@ -1,4 +1,4 @@
-# Table of contents
+# Tabla de contenidos
 
 * [Tabla de contenidos](README.md)
 * [1 Historia del diseño gráfico](1-historia-del-diseno-grafico/README.md)
