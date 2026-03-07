@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.1. INTRODUCCIÓN A LA HISTORIA DEL DISEÑO.md",
+                "file": "1.1. Introducción a la historia del diseño.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1. INTRODUCCIÓN A LA HISTORIA DEL DISEÑO"
+              "title": "1.1. Introducción a la historia del diseño"
             }
           }
         ],
@@ -199,7 +199,7 @@
   "active": "7f4baa7d4a934b71",
   "lastOpenFiles": [
     "SUMMARY.md.md",
-    "1.1. INTRODUCCIÓN A LA HISTORIA DEL DISEÑO.md",
+    "1.1. Introducción a la historia del diseño.md",
     "01-Historia",
     "Prueba de sincronización automática.md"
   ]
