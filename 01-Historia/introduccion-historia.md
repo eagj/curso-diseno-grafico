@@ -1,4 +1,4 @@
-## 1.1. INTRODUCCIÓN A LA HISTORIA DEL DISEÑO
+## 1.1. Introducción a la historia del diseño
 
 ### LOS CONCEPTOS DE DISEÑO Y DISEÑO GRÁFICO
 
