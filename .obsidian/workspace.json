@@ -39,14 +39,12 @@
             "id": "70ec9662efd14c9d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "SUMMARY.md",
-                "mode": "source",
-                "source": false
+                "file": "2 Conceptos básicos del diseño gráfico/Pasted image 20260308122422.png"
               },
-              "icon": "lucide-file",
-              "title": "SUMMARY"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260308122422"
             }
           },
           {
@@ -224,14 +222,14 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "70ec9662efd14c9d",
+  "active": "720f6d1831768cec",
   "lastOpenFiles": [
-    "2 Conceptos básicos del diseño gráfico/2.8 Ejercicio.md",
-    "Pasted image 20260308122555.png",
-    "Pasted image 20260308122510.png",
-    "Pasted image 20260308122507.png",
-    "Pasted image 20260308122422.png",
     "SUMMARY.md",
+    "2 Conceptos básicos del diseño gráfico/2.8 Ejercicio.md",
+    "2 Conceptos básicos del diseño gráfico/Pasted image 20260308122555.png",
+    "2 Conceptos básicos del diseño gráfico/Pasted image 20260308122510.png",
+    "2 Conceptos básicos del diseño gráfico/Pasted image 20260308122507.png",
+    "2 Conceptos básicos del diseño gráfico/Pasted image 20260308122422.png",
     "2 Conceptos básicos del diseño gráfico/2.7 La percepción.md",
     "1-Historia-del-diseno-grafico/1.10. la revolución digital.md",
     "2 Conceptos básicos del diseño gráfico/2.6 La atención.md",
