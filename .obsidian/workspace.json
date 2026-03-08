@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Historia-del-diseno-grafico/README.md",
+                "file": "1-Historia-del-diseno-grafico/1.01.Introduccion-a-la-historia-del-diseno.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "1.01.Introduccion-a-la-historia-del-diseno"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,12 +210,12 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "afb508543abd8f3f",
+  "active": "a742c42272bdc27b",
   "lastOpenFiles": [
-    "README.md",
-    "1-Historia-del-diseno-grafico/README.md",
-    "SUMMARY.md",
     "1-Historia-del-diseno-grafico/1.01.Introduccion-a-la-historia-del-diseno.md",
+    "1-Historia-del-diseno-grafico/README.md",
+    "README.md",
+    "SUMMARY.md",
     "2 Conceptos básicos del diseño gráfico/2.5. Ejercicio identifica la característica.md",
     "2 Conceptos básicos del diseño gráfico/2.4. Características de las formas básicas.md",
     "2 Conceptos básicos del diseño gráfico/2.2. Las formas básicas.md",
