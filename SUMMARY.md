@@ -6,8 +6,15 @@
 * [1.3. Art Nouveau](1%20Historia%20del%20diseño%20gráfico/1.03.%20Art%20Nouveau.md)
 * [1.4. Bauhaus](1%20Historia%20del%20diseño%20gráfico/1.04.%20Bauhaus.md)
 * [1.5. Ejercicio](1%20Historia%20del%20diseño%20gráfico/1.05.%20Ejercicio,%20identifica%20la%20corriente%20artística.md)
+* [1.6. La escuela de Nueva York](1%20Historia%20del%20diseño%20gráfico/1.06.%20La%20escuela%20de%20Nueva%20York.md)
+* [1.7. Pop Art](1%20Historia%20del%20diseño%20gráfico/1.07.%20Pop%20Art.md)
+* [1.8. Los años 60 y 70 en Europa](1%20Historia%20del%20diseño%20gráfico/1.08.%20Los%20años%2060%20y%2070%20en%20Europa.md)
+* [1.9. Los años 60 y 70 en Estados Unidos](1%20Historia%20del%20diseño%20gráfico/1.09.%20Los%20años%2060%20y%2070%20en%20Estados%20Unidos.md)
+* [1.10. la revolución digital](1%20Historia%20del%20diseño%20gráfico/1.10.%20la%20revolución%20digital.md)
 
 ## 2 Conceptos básicos del diseño gráfico
 * [2.1. Introducción](2%20Conceptos%20básicos%20del%20diseño%20gráfico/2.1.%20Introducción.md)
 * [2.2. Las formas básicas](2%20Conceptos%20básicos%20del%20diseño%20gráfico/2.2.%20Las%20formas%20básicas.md)
 * [2.3. Ejercicio Verdadero o falso](2%20Conceptos%20básicos%20del%20diseño%20gráfico/2.3.%20Ejercicio%20Verdadero%20o%20falso.md)
+* [2.4. Características de las formas básicas](2%20Conceptos%20básicos%20del%20diseño%20gráfico/2.4.%20Características%20de%20las%20formas%20básicas.md)
+* [2.5. Ejercicio identifica la característica](2%20Conceptos%20básicos%20del%20diseño%20gráfico/2.5.%20Ejercicio%20identifica%20la%20característica.md)
