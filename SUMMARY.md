@@ -18,4 +18,4 @@
   * [2.3. Ejercicio Verdadero o falso](2%20Conceptos%20básicos%20del%20diseño%20gráfico/2.3.%20Ejercicio%20Verdadero%20o%20falso.md)
   * [2.4. Características de las formas básicas](2%20Conceptos%20básicos%20del%20diseño%20gráfico/2.4.%20Características%20de%20las%20formas%20básicas.md)
   * [2.5. Ejercicio identifica la característica](2%20Conceptos%20básicos%20del%20diseño%20gráfico/2.5.%20Ejercicio%20identifica%20la%20característica.md)
-  * 
+  * [2.6 La atención](2%20Conceptos%20básicos%20del%20diseño%20gráfico/2.6%20La%20atención.md)
