@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "README.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SUMMARY"
+              "title": "README.md"
             }
           }
         ],
@@ -198,8 +198,8 @@
   },
   "active": "592bdb34dbb1f3ae",
   "lastOpenFiles": [
-    "README.md.md",
     "SUMMARY.md",
+    "README.md.md",
     "1 Historia-del-diseno-grafico/1.01. Introduccion-a-la-historia-del-diseno.md",
     "2 Conceptos básicos del diseño gráfico/2.5. Ejercicio identifica la característica.md",
     "2 Conceptos básicos del diseño gráfico/2.4. Características de las formas básicas.md",
