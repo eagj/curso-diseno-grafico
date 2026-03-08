@@ -1,8 +1,8 @@
 # Tabla de contenidos
 
 * [Tabla de contenidos](README.md)
-[1.10. la revolución digital](1-Historia-del-diseno-grafico/1.10.%20la%20revolución%20digital.md)
-[1.01.Introduccion-a-la-historia-del-diseno](1-Historia-del-diseno-grafico/1.01.Introduccion-a-la-historia-del-diseno.md)
+* [1.10. la revolución digital](1-Historia-del-diseno-grafico/1.10.%20la%20revolución%20digital.md)
+* [1.01.Introduccion-a-la-historia-del-diseno](1-Historia-del-diseno-grafico/1.01.Introduccion-a-la-historia-del-diseno.md)
 [1.02. Arts & Crafts](1-Historia-del-diseno-grafico/1.02.%20Arts%20&%20Crafts.md)
 [1.03. Art Nouveau](1-Historia-del-diseno-grafico/1.03.%20Art%20Nouveau.md)
 [1.04. Bauhaus](1-Historia-del-diseno-grafico/1.04.%20Bauhaus.md)
