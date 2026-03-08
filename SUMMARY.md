@@ -1,9 +1,6 @@
 # Tabla de contenidos
 
-* 1 Historia del diseño gráfico
-  *[1.1. Introducción a la historia del diseño](1-Historia-del-diseno-grafico/1.01.Introduccion-a-la-historia-del-diseno.md)
-* [1.2. Arts & Crafts](1-Historia-del-diseno-grafico/1.02.%20Arts%20&%20Crafts.md)
-* 
+* [Tabla de contenidos](README.md)
 [1.10. la revolución digital](1-Historia-del-diseno-grafico/1.10.%20la%20revolución%20digital.md)
 [1.01.Introduccion-a-la-historia-del-diseno](1-Historia-del-diseno-grafico/1.01.Introduccion-a-la-historia-del-diseno.md)
 [1.02. Arts & Crafts](1-Historia-del-diseno-grafico/1.02.%20Arts%20&%20Crafts.md)
