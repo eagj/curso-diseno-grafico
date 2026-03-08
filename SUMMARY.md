@@ -1,7 +1,7 @@
 # Tabla de contenidos
 
 * [Tabla de contenidos](README.md)
-* [1 Historia del diseño gráfico]
+* 1 Historia del diseño gráfico
   * [1.1. Introducción a la historia del diseño](<1 Historia del diseño gráfico/1.01. Introducción a la historia del diseño.md>)
   * [1.2. Arts & Crafts](<1 Historia del diseño gráfico/1.02. Arts & Crafts.md>)
   * [1.3. Art Nouveau](<1 Historia del diseño gráfico/1.03. Art Nouveau.md>)
