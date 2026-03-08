@@ -29,3 +29,6 @@
   * [3.5 Ejercicio](3%20Teoría%20y%20psicología%20del%20color/3.5%20Ejercicio.md)
   * [3.6 Psicología del color](3%20Teoría%20y%20psicología%20del%20color/3.6%20Psicología%20del%20color.md)
   * [3.7 Ejercicio](3%20Teoría%20y%20psicología%20del%20color/3.7%20Ejercicio.md)
+  
+* [4. Introducción a la tipografía](4%20Introducción%20a%20la%20tipografía/README.md)
+  * [4.1 Qué es la tipografía](4%20Introducción%20a%20la%20tipografía/4.1%20Qué%20es%20la%20tipografía.md)
