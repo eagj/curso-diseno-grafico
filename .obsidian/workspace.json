@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "README.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SUMMARY"
+              "title": "README.md"
             }
           }
         ],
@@ -196,11 +196,11 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "592bdb34dbb1f3ae",
+  "active": "720f6d1831768cec",
   "lastOpenFiles": [
-    "README.md.md",
+    "1 Historia-del-diseno-grafico/1.01. Introduccion-a-la-historia-del-diseno.md",
     "SUMMARY.md",
-    "1 Historia del diseño gráfico/1.01. Introducción a la historia del diseño.md",
+    "README.md.md",
     "2 Conceptos básicos del diseño gráfico/2.5. Ejercicio identifica la característica.md",
     "2 Conceptos básicos del diseño gráfico/2.4. Características de las formas básicas.md",
     "2 Conceptos básicos del diseño gráfico/2.2. Las formas básicas.md",
@@ -218,17 +218,17 @@
     "1-historia-del-diseno-grafico/README.md",
     "1-historia-del-diseno-grafico",
     "SUMMARY.md.md",
-    "1 Historia del diseño gráfico/1.10. la revolución digital.md",
+    "1 Historia-del-diseno-grafico/1.10. la revolución digital.md",
     "2 Conceptos básicos del diseño gráfico",
-    "1 Historia del diseño gráfico/1.04. Bauhaus.md",
-    "1 Historia del diseño gráfico/1.09. Los años 60 y 70 en Estados Unidos.md",
-    "1 Historia del diseño gráfico/1.08. Los años 60 y 70 en Europa.md",
-    "1 Historia del diseño gráfico/1.07. Pop Art.md",
-    "1 Historia del diseño gráfico/1.06. La escuela de Nueva York.md",
-    "1 Historia del diseño gráfico/1.05. Ejercicio, identifica la corriente artística.md",
-    "1 Historia del diseño gráfico/1.03. Art Nouveau.md",
-    "1 Historia del diseño gráfico/1.02. Arts & Crafts.md",
-    "1 Historia del diseño gráfico/Pasted image 20260307223407.png",
+    "1 Historia-del-diseno-grafico/1.04. Bauhaus.md",
+    "1 Historia-del-diseno-grafico/1.09. Los años 60 y 70 en Estados Unidos.md",
+    "1 Historia-del-diseno-grafico/1.08. Los años 60 y 70 en Europa.md",
+    "1 Historia-del-diseno-grafico/1.07. Pop Art.md",
+    "1 Historia-del-diseno-grafico/1.06. La escuela de Nueva York.md",
+    "1 Historia-del-diseno-grafico/1.05. Ejercicio, identifica la corriente artística.md",
+    "1 Historia-del-diseno-grafico/1.03. Art Nouveau.md",
+    "1 Historia-del-diseno-grafico/1.02. Arts & Crafts.md",
+    "1 Historia-del-diseno-grafico/Pasted image 20260307223407.png",
     "[introduccion-historia](01-Historia/introduccion-historia.md",
     "[introduccion-historia](01-Historia",
     "[01-Historia](01-Historia/introduccion-historia.md",
@@ -237,6 +237,6 @@
     "[introduccion-historia]([introduccion-historia](01-Historia",
     "01-Historia/1.1introduccion-historia.md",
     "01-Historia/1.1..md",
-    "1 Historia del diseño gráfico"
+    "1 Historia-del-diseno-grafico"
   ]
 }
