@@ -1,2 +1,1 @@
-# Tabla de contenidos
-readme.md
+# Curso de diseño grafico
