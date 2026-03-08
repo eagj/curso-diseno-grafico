@@ -8,119 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "70ec9662efd14c9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Teoría y psicología del color/3.3 Ejercicio.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.3 Ejercicio"
-            }
-          },
-          {
             "id": "8a8f86e259071bcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Teoría y psicología del color/3.6 Psicología del color.md",
+                "file": "SUMMARY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.6 Psicología del color"
-            }
-          },
-          {
-            "id": "5c8d0b2ad195a0b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Teoría y psicología del color/3.3 Ejercicio.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.3 Ejercicio"
-            }
-          },
-          {
-            "id": "13a4345062b06291",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Teoría y psicología del color/3.4 Armonía entre colores.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.4 Armonía entre colores"
-            }
-          },
-          {
-            "id": "bac015e1cc6bc81b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Teoría y psicología del color/3.5 Ejercicio.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.5 Ejercicio"
-            }
-          },
-          {
-            "id": "69b4392163504c32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Teoría y psicología del color/3.1 Introducción.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.1 Introducción"
-            }
-          },
-          {
-            "id": "358560091006bddd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Conceptos básicos del diseño gráfico/2.8 Ejercicio.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.8 Ejercicio"
-            }
-          },
-          {
-            "id": "58cefd2378bcca64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Teoría y psicología del color/3.2 Conociendo los colores.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.2 Conociendo los colores"
+              "title": "SUMMARY"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -280,10 +181,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "720f6d1831768cec",
+  "active": "8a8f86e259071bcf",
   "lastOpenFiles": [
-    "3 Teoría y psicología del color/3.3 Ejercicio.md",
     "3 Teoría y psicología del color/3.6 Psicología del color.md",
+    "3 Teoría y psicología del color/3.3 Ejercicio.md",
     "SUMMARY.md",
     "3 Teoría y psicología del color/3.5 Ejercicio.md",
     "3 Teoría y psicología del color/Pasted image 20260308200258.png",
