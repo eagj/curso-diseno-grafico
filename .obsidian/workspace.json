@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "592bdb34dbb1f3ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Conceptos básicos del diseño gráfico/2.6 La atención.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.6 La atención"
-            }
-          },
-          {
-            "id": "ee3d6a5b237ef9e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Conceptos básicos del diseño gráfico/2.7 La percepción.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.7 La percepción"
-            }
-          },
-          {
             "id": "70ec9662efd14c9d",
             "type": "leaf",
             "state": {
@@ -69,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Teoría y psicología del color/3.1 Introducción.md",
+                "file": "2 Conceptos básicos del diseño gráfico/2.8 Ejercicio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1 Introducción"
+              "title": "2.8 Ejercicio"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,17 +212,17 @@
   },
   "active": "358560091006bddd",
   "lastOpenFiles": [
-    "2 Conceptos básicos del diseño gráfico/2.8 Ejercicio.md",
-    "SUMMARY.md",
     "3 Teoría y psicología del color/3.1 Introducción.md",
+    "SUMMARY.md",
+    "2 Conceptos básicos del diseño gráfico/2.7 La percepción.md",
+    "2 Conceptos básicos del diseño gráfico/2.6 La atención.md",
+    "2 Conceptos básicos del diseño gráfico/2.8 Ejercicio.md",
     "2 Conceptos básicos del diseño gráfico/Pasted image 20260308122422.png",
     "3 Teoría y psicología del color",
     "2 Conceptos básicos del diseño gráfico/Pasted image 20260308122555.png",
     "2 Conceptos básicos del diseño gráfico/Pasted image 20260308122510.png",
     "2 Conceptos básicos del diseño gráfico/Pasted image 20260308122507.png",
-    "2 Conceptos básicos del diseño gráfico/2.7 La percepción.md",
     "1 Historia del diseño gráfico/1.10. la revolución digital.md",
-    "2 Conceptos básicos del diseño gráfico/2.6 La atención.md",
     "2 Conceptos básicos del diseño gráfico/2.5. Ejercicio identifica la característica.md",
     "2 Conceptos básicos del diseño gráfico/2.4. Características de las formas básicas.md",
     "1 Historia del diseño gráfico/1.01.Introduccion-a-la-historia-del-diseno.md",
