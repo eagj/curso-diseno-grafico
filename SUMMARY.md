@@ -24,3 +24,6 @@
 * [3 Teoría y psicología del color](3%20Teoría%20y%20psicología%20del%20color)
   * [3.1 Introducción](3%20Teoría%20y%20psicología%20del%20color/3.1%20Introducción.md)
   * [3.2 Conociendo los colores](3%20Teoría%20y%20psicología%20del%20color/3.2%20Conociendo%20los%20colores.md)
+  * [3.3 Ejercicio](3%20Teoría%20y%20psicología%20del%20color/3.3%20Ejercicio.md)
+  * [3.4 Armonía entre colores](3%20Teoría%20y%20psicología%20del%20color/3.4%20Armonía%20entre%20colores.md)
+  * [3.5 Ejercicio](3%20Teoría%20y%20psicología%20del%20color/3.5%20Ejercicio.md)
