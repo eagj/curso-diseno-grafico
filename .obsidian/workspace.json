@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "ee3d6a5b237ef9e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Conceptos básicos del diseño gráfico/2.7 La percepción.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.7 La percepción"
+            }
+          },
+          {
             "id": "70ec9662efd14c9d",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "SUMMARY"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,11 +210,13 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "592bdb34dbb1f3ae",
+  "active": "ee3d6a5b237ef9e2",
   "lastOpenFiles": [
+    "1-Historia-del-diseno-grafico/1.10. la revolución digital.md",
+    "2 Conceptos básicos del diseño gráfico/2.7 La percepción.md",
+    "2 Conceptos básicos del diseño gráfico/2.6 La atención.md",
     "2 Conceptos básicos del diseño gráfico/2.5. Ejercicio identifica la característica.md",
     "SUMMARY.md",
-    "2 Conceptos básicos del diseño gráfico/2.6 La atención.md",
     "2 Conceptos básicos del diseño gráfico/2.4. Características de las formas básicas.md",
     "1-Historia-del-diseno-grafico/1.01.Introduccion-a-la-historia-del-diseno.md",
     "1-Historia-del-diseno-grafico/README.md",
@@ -218,7 +235,6 @@
     "1-historia-del-diseno-grafico/README.md",
     "1-historia-del-diseno-grafico",
     "SUMMARY.md.md",
-    "1-Historia-del-diseno-grafico/1.10. la revolución digital.md",
     "2 Conceptos básicos del diseño gráfico",
     "1-Historia-del-diseno-grafico/1.04. Bauhaus.md",
     "1-Historia-del-diseno-grafico/1.09. Los años 60 y 70 en Estados Unidos.md",
@@ -235,7 +251,6 @@
     "[01-Historia](01-Historia",
     "[introduccion-historia]([introduccion-historia](01-Historia/introduccion-historia.md",
     "[introduccion-historia]([introduccion-historia](01-Historia",
-    "01-Historia/1.1introduccion-historia.md",
     "1-Historia-del-diseno-grafico"
   ]
 }
