@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sin título.md",
+                "file": "3 Teoría y psicología del color/3.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "3.1"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -238,10 +238,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "69b4392163504c32",
+  "active": "70ec9662efd14c9d",
   "lastOpenFiles": [
+    "3 Teoría y psicología del color/3.1.md",
     "SUMMARY.md",
-    "Sin título.md",
     "2 Conceptos básicos del diseño gráfico/Pasted image 20260308122422.png",
     "3 Teoría y psicología del color",
     "2 Conceptos básicos del diseño gráfico/2.8 Ejercicio.md",
