@@ -1,1 +1,0 @@
-# Historia del diseño gráfico
