@@ -11,6 +11,7 @@
   * [1.8. Los años 60 y 70 en Europa](1-Historia-del-diseno-grafico/1.08.%20Los%20años%2060%20y%2070%20en%20Europa.md)
   * [1.9. Los años 60 y 70 en Estados Unidos](1-Historia-del-diseno-grafico/1.09.%20Los%20años%2060%20y%2070%20en%20Estados%20Unidos.md)
   * [1.10. la revolución digital](1-Historia-del-diseno-grafico/1.10.%20la%20revolución%20digital.md)
+  
 * [2. Conceptos básicos del diseño gráfico](2%20Conceptos%20básicos%20del%20diseño%20gráfico//README.md)
   * [2.1. Introducción](2%20Conceptos%20básicos%20del%20diseño%20gráfico/2.1.%20Introducción.md)
   * [2.2. Las formas básicas](2%20Conceptos%20básicos%20del%20diseño%20gráfico/2.2.%20Las%20formas%20básicas.md)
