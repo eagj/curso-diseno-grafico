@@ -15,3 +15,4 @@
 * [2 Conceptos básicos del diseño gráfico](2-conceptos-basicos-del-diseno-grafico/README.md)
   * [2.1. Introducción](<2 Conceptos básicos del diseño gráfico/2.1. Introducción.md>)
   * [2.2. Las formas básicas](<2 Conceptos básicos del diseño gráfico/2.2. Las formas básicas.md>)
+  * [2.3. Ejercicio Verdadero o falso](2%20Conceptos%20básicos%20del%20diseño%20gráfico/2.3.%20Ejercicio%20Verdadero%20o%20falso.md)
