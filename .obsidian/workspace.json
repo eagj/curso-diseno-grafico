@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -238,10 +238,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "70ec9662efd14c9d",
+  "active": "358560091006bddd",
   "lastOpenFiles": [
-    "3 Teoría y psicología del color/3.1.md",
     "SUMMARY.md",
+    "3 Teoría y psicología del color/3.1.md",
     "2 Conceptos básicos del diseño gráfico/Pasted image 20260308122422.png",
     "3 Teoría y psicología del color",
     "2 Conceptos básicos del diseño gráfico/2.8 Ejercicio.md",
