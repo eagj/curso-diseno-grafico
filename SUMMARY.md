@@ -20,3 +20,4 @@
   * [2.5. Ejercicio identifica la característica](2%20Conceptos%20básicos%20del%20diseño%20gráfico/2.5.%20Ejercicio%20identifica%20la%20característica.md)
   * [2.6 La atención](2%20Conceptos%20básicos%20del%20diseño%20gráfico/2.6%20La%20atención.md)
   * [2.7 La percepción](2%20Conceptos%20básicos%20del%20diseño%20gráfico/2.7%20La%20percepción.md)
+  * [2.8 Ejercicio](2%20Conceptos%20básicos%20del%20diseño%20gráfico/2.8%20Ejercicio.md)
