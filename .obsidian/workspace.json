@@ -35,7 +35,8 @@
               "title": "4.5 La composición de un texto"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,16 +196,17 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "8a8f86e259071bcf",
+  "active": "c18340dc5de8718a",
   "lastOpenFiles": [
-    "4 Introducción a la tipografía/4.4.  Estilos de una familia tipográfica.md",
+    "1 Historia del diseño gráfico/1.10. la revolución digital.md",
     "4 Introducción a la tipografía/4.5 La composición de un texto.md",
+    "SUMMARY.md",
+    "4 Introducción a la tipografía/4.4.  Estilos de una familia tipográfica.md",
     "3 Teoría y psicología del color/3.2 Conociendo los colores.md",
     "3 Teoría y psicología del color/3.3 Ejercicio.md",
     "3 Teoría y psicología del color/3.4 Armonía entre colores.md",
     "3 Teoría y psicología del color/3.6 Psicología del color.md",
     "4 Introducción a la tipografía/4.3 Ejercicio.md",
-    "SUMMARY.md",
     "4 Introducción a la tipografía/Pasted image 20260309121224.png",
     "4 Introducción a la tipografía/Pasted image 20260309121127.png",
     "4 Introducción a la tipografía/Pasted image 20260309121025.png",
@@ -221,7 +223,6 @@
     "3 Teoría y psicología del color/Pasted image 20260308200123.png",
     "3 Teoría y psicología del color/Pasted image 20260308200033.png",
     "3 Teoría y psicología del color/3.1 Introducción.md",
-    "1 Historia del diseño gráfico/1.10. la revolución digital.md",
     "2 Conceptos básicos del diseño gráfico/2.8 Ejercicio.md",
     "2 Conceptos básicos del diseño gráfico/2.7 La percepción.md",
     "2 Conceptos básicos del diseño gráfico/2.6 La atención.md",
