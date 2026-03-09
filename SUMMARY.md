@@ -37,3 +37,4 @@
   * [4.4.  Estilos de una familia tipográfica](4%20Introducción%20a%20la%20tipografía/4.4.%20%20Estilos%20de%20una%20familia%20tipográfica.md)
   * [4.5 La composición de un texto](4%20Introducción%20a%20la%20tipografía/4.5%20La%20composición%20de%20un%20texto.md)
   * [4.6 Ejercicio](4%20Introducción%20a%20la%20tipografía/4.6%20Ejercicio.md)
+  * [4.7. La tipografía digital](4%20Introducción%20a%20la%20tipografía/4.7.%20La%20tipografía%20digital.md)
