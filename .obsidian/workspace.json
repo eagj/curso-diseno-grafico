@@ -64,6 +64,34 @@
             }
           },
           {
+            "id": "223fbf3d5f33a570",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 Introducción a la tipografía/4.3 Ejercicio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.3 Ejercicio"
+            }
+          },
+          {
+            "id": "34538aae4e0770a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 Introducción a la tipografía/4.4.  Estilos de una familia tipográfica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.4.  Estilos de una familia tipográfica"
+            }
+          },
+          {
             "id": "394a50fd3f213155",
             "type": "leaf",
             "state": {
@@ -240,9 +268,14 @@
   },
   "active": "69815d4cca9b3499",
   "lastOpenFiles": [
+    "4 Introducción a la tipografía/4.4.  Estilos de una familia tipográfica.md",
+    "4 Introducción a la tipografía/4.3 Ejercicio.md",
+    "4 Introducción a la tipografía/Pasted image 20260309121224.png",
+    "4 Introducción a la tipografía/Pasted image 20260309121127.png",
+    "4 Introducción a la tipografía/Pasted image 20260309121025.png",
+    "SUMMARY.md",
     "4 Introducción a la tipografía/4.2 Conceptos básicos de tipografía.md",
     "4 Introducción a la tipografía/4.1 Qué es la tipografía.md",
-    "SUMMARY.md",
     "4 Introducción a la tipografía",
     "3 Teoría y psicología del color/3.7 Ejercicio.md",
     "3 Teoría y psicología del color/Pasted image 20260308201900.png",
@@ -256,9 +289,6 @@
     "3 Teoría y psicología del color/Pasted image 20260308200212.png",
     "3 Teoría y psicología del color/Pasted image 20260308200123.png",
     "3 Teoría y psicología del color/Pasted image 20260308200033.png",
-    "3 Teoría y psicología del color/Pasted image 20260308195606.png",
-    "3 Teoría y psicología del color/Pasted image 20260308195526.png",
-    "3 Teoría y psicología del color/Pasted image 20260308195441.png",
     "3 Teoría y psicología del color/3.1 Introducción.md",
     "3 Teoría y psicología del color/3.2 Conociendo los colores.md",
     "1 Historia del diseño gráfico/1.10. la revolución digital.md",
@@ -278,9 +308,7 @@
     "2-conceptos-basicos-del-diseno-grafico",
     "1-historia-del-diseno-grafico/README.md",
     "1-historia-del-diseno-grafico",
-    "SUMMARY.md.md",
     "2 Conceptos básicos del diseño gráfico",
-    "1 Historia del diseño gráfico/1.04. Bauhaus.md",
     "[introduccion-historia](01-Historia",
     "[01-Historia](01-Historia",
     "[introduccion-historia]([introduccion-historia](01-Historia",
