@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c246009a99b8b617",
+        "id": "1b4b2f9185c32076",
         "type": "tabs",
         "children": [
           {
-            "id": "fa2e0058c8c970c9",
+            "id": "2bc7cb5dbb3704d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -187,8 +191,9 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "fa2e0058c8c970c9",
+  "active": "2bc7cb5dbb3704d2",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "1 Historia del diseño gráfico/1.10. la revolución digital.md",
     "SUMMARY.md",
     "4 Introducción a la tipografía/4.6 Ejercicio.md",
